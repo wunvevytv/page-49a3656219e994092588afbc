@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "428c90d28921b2832dc59bb0",
+  "owner": "wunvevytv",
+  "repo": "page-49a3656219e994092588afbc",
+  "title": "彩虹云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "49a3656219e994092588afbc",
+      "a": "彩虹云",
+      "b": "2027官方最新地址导航",
+      "entity": "彩虹云",
+      "brand": "彩虹云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d17c0de5fa1a5aa7907a4991a78fde423ced3b66ad5d1d0679a2cd484108c325",
+      "content": {
+        "primary_entity": "彩虹云",
+        "keyword1": "彩虹云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，彩虹云提供基础版、旗舰版与团队版三档订阅，月付与年付灵活可选。基础版每月100GB流量，适合两三台设备轻度使用；旗舰版每月300GB并搭载IPLC专线，适合多设备流媒体与游戏加速；团队版每月1000GB支持20台设备，满足小型团队协作。订阅按客户端文档导入配置即可开始使用。",
+          "AI_HERO_SUBTITLE": "彩虹云多设备订阅加速方案",
+          "AI_HERO_INTRO": "彩虹云是面向海外网络访问的加速服务品牌，提供多档流量套餐与节点线路选择。用户可根据设备数量、月均流量和流媒体或游戏需求挑选基础版、旗舰版或团队版，并配合各平台客户端完成订阅配置，灵活切换节点获得稳定连接。",
+          "AI_VISUAL_TITLE": "彩虹云加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖单人到团队",
+          "AI_HIGHLIGHT_2": "月付年付自由选择",
+          "AI_HIGHLIGHT_3": "多平台客户端订阅导入",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "彩虹云套餐按流量和设备数划分，选择时先看日常设备数量与流量消耗，再看是否需要流媒体解锁或专线游戏加速。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台。手机、平板、电脑同时在线时，按总数对号入座即可。",
+          "AI_FEATURE_TITLE_2": "按流量选档位",
+          "AI_FEATURE_TEXT_2": "轻度浏览选每月100GB基础版，常在多设备看视频选每月300GB旗舰版，团队共用则选每月1000GB团队版。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按月或按年计费，年付价格更划算。基础版年付¥150，旗舰版年付¥350，团队版年付¥850。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，Windows、macOS、Android、iOS 均有可用工具，路由器可参考插件文档。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版月付¥15享100GB流量与3台设备，旗舰版月付¥35享300GB、5台设备及IPLC专线，团队版月付¥85享1000GB与20台设备。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "先选套餐，再确认设备适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TEXT_1": "根据设备台数和月流量需求，在基础版、旗舰版、团队版中选定一档，并决定月付或年付。",
+          "AI_STEP_TITLE_2": "查适配",
+          "AI_STEP_TEXT_2": "确认所用设备系统版本与客户端要求，路由器用户提前查看插件支持情况。",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_STEP_TEXT_3": "在客户端中按使用文档导入订阅链接，选择节点后连接，多设备重复此步骤即可。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、付费周期与套餐升级。",
+          "AI_CLOSING_TITLE": "彩虹云订阅",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档导入订阅，即可开始使用彩虹云加速服务。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_QUESTION_1": "彩虹云套餐可以随时升级吗？",
+          "AI_FAQ_ANSWER_1": "可以在套餐页面选择更高档位。升级后流量与设备上限按新套餐执行，具体差价计算以购买流程显示为准。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。设备数量指同时在线数，超出的设备需要先断开再连接。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "使用期限不同。年付在总价上低于按月累计，例如旗舰版年付 ¥350，相当于按月付费的优惠价格。",
+          "AI_FAQ_QUESTION_4": "订阅信息应该怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "复制订阅地址后，在所选客户端的订阅或配置入口添加即可。不同客户端界面略有差异，按对应文档操作。",
+          "AI_FAQ_QUESTION_5": "团队版的定制路由指什么？",
+          "AI_FAQ_ANSWER_5": "团队版可根据企业网络结构配置专属路由走向，并配有专属客户经理协助对接，适合多终端协作场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "0554mt.cn",
+    "host": "0554mt.cn"
+  },
+  "file_hashes": {
+    "index.html": "6bc751f455c87c96feda5c72feb7dcdcc5c8593b5565df7b507d9b509504258c",
+    "sitemap.xml": "0c61409ad5833d997a66a48604e2e8e3c9e9c49caf2c5fe590c6fc3b424e2299",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5cb3e3609a7313bf21aee40251ec4e8c2db69f933b2e28b71db3fd5376960d66",
+    "robots.txt": "0d0b87cb511eb6c55905c4b7e57565390ff37f93eeaeaf260b296b69764868c8",
+    "bb803929318f6fc23a24c83348919289.txt": "fe9fde3494edae78761d3f482dd153360e19477309d56329973a70fdfbd72be6"
+  },
+  "revision": "3b48583ad58b1cb5ccd6b8fa9724a603aeecb69d498c2777fd396174c98df106"
+}
